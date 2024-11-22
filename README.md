@@ -22,6 +22,6 @@
 <a href="https://www.facebook.com/ayemyatlwin.dev/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="ayemyatlwin-facebook" height="40" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/ayemyat-lwin-03a083244/" target="blank">
+<a href="https://www.linkedin.com/in/ayemyatlwin-dev" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="ayemyatlwin-linkedin" height="40" width="40" />
 </a>
